@@ -1,0 +1,22 @@
+# Build artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Database files
+*.db
+
+# User-specific files
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# ASP.NET scaffolding
+wwwroot/lib/

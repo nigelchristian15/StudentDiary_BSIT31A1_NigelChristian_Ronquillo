@@ -1,0 +1,15 @@
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\bin\Debug\net9.0\StudentDiary.Services.deps.json
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\bin\Debug\net9.0\StudentDiary.Services.dll
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\bin\Debug\net9.0\StudentDiary.Services.pdb
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\bin\Debug\net9.0\StudentDiary.Infrastructure.dll
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\bin\Debug\net9.0\StudentDiary.Infrastructure.pdb
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\obj\Debug\net9.0\StudentDiary.Services.csproj.AssemblyReference.cache
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\obj\Debug\net9.0\StudentDiary.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\obj\Debug\net9.0\StudentDiary.Services.AssemblyInfoInputs.cache
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\obj\Debug\net9.0\StudentDiary.Services.AssemblyInfo.cs
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\obj\Debug\net9.0\StudentDiary.Services.csproj.CoreCompileInputs.cache
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\obj\Debug\net9.0\StudentD.9E693FDE.Up2Date
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\obj\Debug\net9.0\StudentDiary.Services.dll
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\obj\Debug\net9.0\refint\StudentDiary.Services.dll
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\obj\Debug\net9.0\StudentDiary.Services.pdb
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Services\obj\Debug\net9.0\ref\StudentDiary.Services.dll

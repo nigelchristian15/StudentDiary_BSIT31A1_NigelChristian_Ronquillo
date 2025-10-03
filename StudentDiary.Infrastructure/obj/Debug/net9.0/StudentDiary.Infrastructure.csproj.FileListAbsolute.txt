@@ -1,0 +1,14 @@
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\bin\Debug\net9.0\StudentDiary.Infrastructure.deps.json
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\bin\Debug\net9.0\StudentDiary.Infrastructure.runtimeconfig.json
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\bin\Debug\net9.0\StudentDiary.Infrastructure.dll
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\bin\Debug\net9.0\StudentDiary.Infrastructure.pdb
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\obj\Debug\net9.0\StudentDiary.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\obj\Debug\net9.0\StudentDiary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\obj\Debug\net9.0\StudentDiary.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\obj\Debug\net9.0\StudentDiary.Infrastructure.AssemblyInfo.cs
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\obj\Debug\net9.0\StudentDiary.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\obj\Debug\net9.0\StudentDiary.Infrastructure.dll
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\obj\Debug\net9.0\refint\StudentDiary.Infrastructure.dll
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\obj\Debug\net9.0\StudentDiary.Infrastructure.pdb
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\obj\Debug\net9.0\StudentDiary.Infrastructure.genruntimeconfig.cache
+C:\Users\nigel\Downloads\StudentDiary_Exercise\StudentDiary.Infrastructure\obj\Debug\net9.0\ref\StudentDiary.Infrastructure.dll
